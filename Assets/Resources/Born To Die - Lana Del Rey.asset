@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7189f9f08c9bec341a16858d7f9a64cc, type: 3}
+  m_Name: Born To Die - Lana Del Rey
+  m_EditorClassIdentifier: 
+  <MusicClip>k__BackingField: {fileID: 8300000, guid: 135e83da3978ed14d80d74398009b542, type: 3}
+  <Thumbnail>k__BackingField: {fileID: 21300000, guid: f671bb92cb51a4c42b02d5c2316639f8, type: 3}
+  <MusicName>k__BackingField: Born To Die
+  <Author>k__BackingField: Lana Del Rey
+  <Lyrics>k__BackingField:
+  - text: "\u266B"
+    timecode:
+      minutes: 0
+      seconds: 0
+  - text: Why?
+    timecode:
+      minutes: 0
+      seconds: 14
+  - text: 
+    timecode:
+      minutes: 0
+      seconds: 15
+  - text: Who, me?
+    timecode:
+      minutes: 0
+      seconds: 16
+  - text: 
+    timecode:
+      minutes: 0
+      seconds: 17
+  - text: Why?
+    timecode:
+      minutes: 0
+      seconds: 19
+  - text: 
+    timecode:
+      minutes: 0
+      seconds: 20
+  - text: 'Feet don''t fail me now
+
+      Take me to the finish line'
+    timecode:
+      minutes: 0
+      seconds: 23
+  - text: Oh, my heart, it breaks every step that I take
+    timecode:
+      minutes: 0
+      seconds: 32
+  - text: But I'm hoping at the gates, they'll tell me that you're mine
+    timecode:
+      minutes: 0
+      seconds: 37
+  - text: 
+    timecode:
+      minutes: 0
+      seconds: 43
+  - text: Walking through the city streets, is it by mistake or design?
+    timecode:
+      minutes: 0
+      seconds: 45
+  - text: I feel so alone on a friday night
+    timecode:
+      minutes: 0
+      seconds: 55
+  - text: Can you make it feel like home, if I tell you you're mine?
+    timecode:
+      minutes: 1
+      seconds: 0
+  - text: It's like I told you honey
+    timecode:
+      minutes: 1
+      seconds: 5
+  - text: Don't make me sad, don't make me cry
+    timecode:
+      minutes: 1
+      seconds: 8
+  - text: Sometimes love is not enough and the road gets tough
+    timecode:
+      minutes: 1
+      seconds: 13
+  - text: 'I don''t know why
+
+      Keep making me laugh, let''s go get high'
+    timecode:
+      minutes: 1
+      seconds: 17
+  - text: 'The road is long, we carry on
+
+      Try to have fun in the meantime'
+    timecode:
+      minutes: 1
+      seconds: 24
+  - text: 'Come and take a walk on the wild side
+
+      Let me kiss you hard in the
+      pouring rain'
+    timecode:
+      minutes: 1
+      seconds: 30
+  - text: You like your girls insane
+    timecode:
+      minutes: 1
+      seconds: 37
+  - text: Choose your last words, this is the last time
+    timecode:
+      minutes: 1
+      seconds: 41
+  - text: '''Cause you and I, we were born to die'
+    timecode:
+      minutes: 1
+      seconds: 48
+  - text: ' '
+    timecode:
+      minutes: 1
+      seconds: 53
+  - text: Lost but now I am found
+    timecode:
+      minutes: 1
+      seconds: 55
+  - text: I can see but once I was blind
+    timecode:
+      minutes: 2
+      seconds: 0
+  - text: I was so confused as a little child
+    timecode:
+      minutes: 2
+      seconds: 4
+  - text: Tried to take what I could get, scared that I couldn't find
+    timecode:
+      minutes: 2
+      seconds: 9
+  - text: All the answers honey
+    timecode:
+      minutes: 2
+      seconds: 15
+  - text: Don't make me sad, don't make me cry
+    timecode:
+      minutes: 2
+      seconds: 18
+  - text: Sometimes love is not enough and the road gets tough
+    timecode:
+      minutes: 2
+      seconds: 23
+  - text: I don't know why
+    timecode:
+      minutes: 2
+      seconds: 27
+  - text: Keep making me laugh, let's go get high
+    timecode:
+      minutes: 2
+      seconds: 29
+  - text: The road is long, we carry on
+    timecode:
+      minutes: 2
+      seconds: 34
+  - text: Try to have fun in the meantime
+    timecode:
+      minutes: 2
+      seconds: 38
+  - text: Come and take a walk on the wild side
+    timecode:
+      minutes: 2
+      seconds: 40
+  - text: Let me kiss you hard in the pouring rain
+    timecode:
+      minutes: 2
+      seconds: 42
+  - text: You like your girls insane
+    timecode:
+      minutes: 2
+      seconds: 46
+  - text: Choose your last words, this is the last time
+    timecode:
+      minutes: 2
+      seconds: 51
+  - text: '''Cause you and I, we were born to die'
+    timecode:
+      minutes: 2
+      seconds: 58
+  - text: We were born to die
+    timecode:
+      minutes: 3
+      seconds: 6
+  - text: "\u266B"
+    timecode:
+      minutes: 3
+      seconds: 13
+  - text: Come and take a walk on the wild side
+    timecode:
+      minutes: 3
+      seconds: 16
+  - text: Let me kiss you hard in the pouring rain
+    timecode:
+      minutes: 3
+      seconds: 19
+  - text: You like your girls insane
+    timecode:
+      minutes: 3
+      seconds: 23
+  - text: So don't make me sad, don't make me cry
+    timecode:
+      minutes: 3
+      seconds: 26
+  - text: Sometimes love is not enough and the road gets tough
+    timecode:
+      minutes: 3
+      seconds: 33
+  - text: I don't know why
+    timecode:
+      minutes: 3
+      seconds: 37
+  - text: Keep making me laugh, let's go get high
+    timecode:
+      minutes: 3
+      seconds: 38
+  - text: The road is long, we carry on
+    timecode:
+      minutes: 3
+      seconds: 44
+  - text: Try to have fun in the meatime
+    timecode:
+      minutes: 3
+      seconds: 47
+  - text: Come and take a walk on the wild side
+    timecode:
+      minutes: 3
+      seconds: 50
+  - text: Let me kiss you hard in the pouring rain
+    timecode:
+      minutes: 3
+      seconds: 53
+  - text: You like your girls insane
+    timecode:
+      minutes: 3
+      seconds: 56
+  - text: So choose your last words, this is the last time
+    timecode:
+      minutes: 4
+      seconds: 0
+  - text: '''Cause you and I, we were born to die'
+    timecode:
+      minutes: 4
+      seconds: 7
+  - text: ' '
+    timecode:
+      minutes: 4
+      seconds: 12

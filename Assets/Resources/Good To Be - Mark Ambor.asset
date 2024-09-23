@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7189f9f08c9bec341a16858d7f9a64cc, type: 3}
+  m_Name: Good To Be - Mark Ambor
+  m_EditorClassIdentifier: 
+  <MusicClip>k__BackingField: {fileID: 8300000, guid: 1b868ffb089c0104d87642190615b2bd, type: 3}
+  <Thumbnail>k__BackingField: {fileID: 21300000, guid: d4424487422590c43ab73ef6ae6f232a, type: 3}
+  <MusicName>k__BackingField: Good To Be
+  <Author>k__BackingField: Mark Ambor
+  <Lyrics>k__BackingField:
+  - text: "\u266B"
+    timecode:
+      minutes: 0
+      seconds: 0
+  - text: Maybe I'm not some chosen one
+    timecode:
+      minutes: 0
+      seconds: 5
+  - text: But, damn it, I'm my father's son
+    timecode:
+      minutes: 0
+      seconds: 7
+  - text: And that's something I'm pretty proud to be
+    timecode:
+      minutes: 0
+      seconds: 10
+  - text: The colder days have drawn their guns
+    timecode:
+      minutes: 0
+      seconds: 15
+  - text: The warmer days are on the run
+    timecode:
+      minutes: 0
+      seconds: 17
+  - text: And I hate that I'm stuck right in between
+    timecode:
+      minutes: 0
+      seconds: 20
+  - text: I'll turn my gray skies blue
+    timecode:
+      minutes: 0
+      seconds: 25
+  - text: Just tryna be like you
+    timecode:
+      minutes: 0
+      seconds: 30
+  - text: Going top down in that old Mercedes
+    timecode:
+      minutes: 0
+      seconds: 37
+  - text: Music loud, go ahead and hate me
+    timecode:
+      minutes: 0
+      seconds: 41
+  - text: Spare the nickel, I'll just keep the dime
+    timecode:
+      minutes: 0
+      seconds: 43
+  - text: Find ways to cut the fat
+    timecode:
+      minutes: 0
+      seconds: 48
+  - text: Hot coffee and a Trident pack
+    timecode:
+      minutes: 0
+      seconds: 51
+  - text: Damn it, it's so good to be alive
+    timecode:
+      minutes: 0
+      seconds: 53
+  - text: Heroes come to save a mess
+    timecode:
+      minutes: 0
+      seconds: 58
+  - text: You sewed the holes inside my chest
+    timecode:
+      minutes: 1
+      seconds: 1
+  - text: And found a way to soak up all the stains
+    timecode:
+      minutes: 1
+      seconds: 3
+  - text: Got all my anger to bottled up
+    timecode:
+      minutes: 1
+      seconds: 9
+  - text: A drop away to fill that cup
+    timecode:
+      minutes: 1
+      seconds: 11
+  - text: But any more and I might go insane
+    timecode:
+      minutes: 1
+      seconds: 14
+  - text: Oh, I'll turn my gray skies blue
+    timecode:
+      minutes: 1
+      seconds: 18
+  - text: Just tryna be like you
+    timecode:
+      minutes: 1
+      seconds: 24
+  - text: Going top down in that old Mercedes
+    timecode:
+      minutes: 1
+      seconds: 31
+  - text: Music loud, go ahead and hate me
+    timecode:
+      minutes: 1
+      seconds: 34
+  - text: Spare the nickel, I'll just keep the dime
+    timecode:
+      minutes: 1
+      seconds: 36
+  - text: Find ways to cut the fat
+    timecode:
+      minutes: 1
+      seconds: 42
+  - text: Hot coffee and a Trident pack
+    timecode:
+      minutes: 1
+      seconds: 44
+  - text: Dammit, it's so good to be alive
+    timecode:
+      minutes: 1
+      seconds: 47
+  - text: ' '
+    timecode:
+      minutes: 1
+      seconds: 50
+  - text: (Oh-oh, oh-oh, oh)
+    timecode:
+      minutes: 2
+      seconds: 1
+  - text: Dammit, it's so good to be alive
+    timecode:
+      minutes: 2
+      seconds: 7
+  - text: (Hey)
+    timecode:
+      minutes: 2
+      seconds: 12
+  - text: ' '
+    timecode:
+      minutes: 2
+      seconds: 14

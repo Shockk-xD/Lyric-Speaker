@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7189f9f08c9bec341a16858d7f9a64cc, type: 3}
+  m_Name: Say Yes To Heaven - Lana Del Rey
+  m_EditorClassIdentifier: 
+  <MusicClip>k__BackingField: {fileID: 8300000, guid: 22ae67f9f41ee344eb18d9a4a26fbc86, type: 3}
+  <Thumbnail>k__BackingField: {fileID: 21300000, guid: ffedc11c2368102428c8cd343e8b5b94, type: 3}
+  <MusicName>k__BackingField: Say Yes To Heaven
+  <Author>k__BackingField: Lana Del Rey
+  <Lyrics>k__BackingField:
+  - text: "\u266B"
+    timecode:
+      minutes: 0
+      seconds: 0
+  - text: 'If you dance, I''ll dance '
+    timecode:
+      minutes: 0
+      seconds: 19
+  - text: 'And if you don''t, I''ll dance anyway '
+    timecode:
+      minutes: 0
+      seconds: 24
+  - text: 'Give peace a chance '
+    timecode:
+      minutes: 0
+      seconds: 29
+  - text: 'Let the fear you have fall away '
+    timecode:
+      minutes: 0
+      seconds: 34
+  - text: 'I''ve got my eye on you '
+    timecode:
+      minutes: 0
+      seconds: 38
+  - text: 'I''ve got my eye on you '
+    timecode:
+      minutes: 0
+      seconds: 42
+  - text: 'Say yes to Heaven '
+    timecode:
+      minutes: 0
+      seconds: 48
+  - text: 'Say yes to me '
+    timecode:
+      minutes: 0
+      seconds: 53
+  - text: 'Say yes to Heaven '
+    timecode:
+      minutes: 0
+      seconds: 57
+  - text: 'Say yes to me '
+    timecode:
+      minutes: 1
+      seconds: 2
+  - text: 'If you go, I''ll stay '
+    timecode:
+      minutes: 1
+      seconds: 7
+  - text: 'You come back, I''ll be right here '
+    timecode:
+      minutes: 1
+      seconds: 12
+  - text: 'Like a barge at sea '
+    timecode:
+      minutes: 1
+      seconds: 17
+  - text: 'In the storm, I stay clear '
+    timecode:
+      minutes: 1
+      seconds: 22
+  - text: '''Cause I''ve got my mind on you '
+    timecode:
+      minutes: 1
+      seconds: 26
+  - text: 'I''ve got my mind on you '
+    timecode:
+      minutes: 1
+      seconds: 31
+  - text: 'Say yes to Heaven '
+    timecode:
+      minutes: 1
+      seconds: 37
+  - text: 'Say yes to me '
+    timecode:
+      minutes: 1
+      seconds: 42
+  - text: 'Say yes to Heaven '
+    timecode:
+      minutes: 1
+      seconds: 46
+  - text: 'Say yes to me '
+    timecode:
+      minutes: 1
+      seconds: 51
+  - text: "\u266B"
+    timecode:
+      minutes: 1
+      seconds: 54
+  - text: 'If you dance, I''ll dance '
+    timecode:
+      minutes: 2
+      seconds: 14
+  - text: 'I''ll put my red dress on, get it on '
+    timecode:
+      minutes: 2
+      seconds: 19
+  - text: 'And if you fight, I''ll fight '
+    timecode:
+      minutes: 2
+      seconds: 24
+  - text: 'It doesn''t matter now, it''s all gone '
+    timecode:
+      minutes: 2
+      seconds: 29
+  - text: 'I''ve got my mind on you '
+    timecode:
+      minutes: 2
+      seconds: 33
+  - text: 'I got my mind on you '
+    timecode:
+      minutes: 2
+      seconds: 38
+  - text: ' '
+    timecode:
+      minutes: 2
+      seconds: 42
+  - text: 'Say yes to Heaven '
+    timecode:
+      minutes: 2
+      seconds: 44
+  - text: 'Say yes to me '
+    timecode:
+      minutes: 2
+      seconds: 49
+  - text: 'Say yes to Heaven '
+    timecode:
+      minutes: 2
+      seconds: 53
+  - text: 'Say yes to me '
+    timecode:
+      minutes: 2
+      seconds: 58
+  - text: 'I''ve got my eye on you '
+    timecode:
+      minutes: 3
+      seconds: 2
+  - text: 'I''ve got my eye on you '
+    timecode:
+      minutes: 3
+      seconds: 7
+  - text: 'I''ve got my eye on you '
+    timecode:
+      minutes: 3
+      seconds: 12
+  - text: 'I''ve got my eye on you '
+    timecode:
+      minutes: 3
+      seconds: 16
+  - text: ' '
+    timecode:
+      minutes: 3
+      seconds: 21
